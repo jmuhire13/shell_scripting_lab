@@ -1,3 +1,6 @@
+student, assignment, submission status
+here, Shell Navigation, submitted
+Noel, Shell Navigation, not submitted
 Tresor, SDL, submitted
-Rwabugiri, E-lab, not submitted
-Eddy, STDL, not submitted
+Eddy, SDL, not submitted
+Jovan, SDL, not submitted
