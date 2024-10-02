@@ -1,6 +1,6 @@
 student, assignment, submission status
 here, Shell Navigation, submitted
 Noel, Shell Navigation, not submitted
-Tresor, SDL, submitted
-Eddy, SDL, not submitted
-Jovan, SDL, not submitted
+Tresor, Shell Navigation, submitted
+Eddy, Shell Navigation, not submitted
+Jovan, Shell Navigation, not submitted
